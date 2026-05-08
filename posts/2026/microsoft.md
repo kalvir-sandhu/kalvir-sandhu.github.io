@@ -1,7 +1,7 @@
 ---
 title: Tired of Apple, Hello Microsoft
 description: What I would do if I were to advise Microsoft today
-date: 2026-05-08
+date: 2026-02-08
 layout: layouts/post.njk
 tags: ["computers"]
 ---
