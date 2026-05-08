@@ -165,7 +165,7 @@ Overhauled all software developer role promotion and growth job matrices.
 During pandemic, introduced correct practises for developers to work remotely ensuring they were happy and content working with one another with only Slack and Google Hangouts.
 
 ## 2022 - 2026
-Traveling, researching computer science and future innovations for self. Dealing with childhood trauma of being left in the forest when I was born.
+Traveling, researching computer science and future innovations for self. Researching new methods of computer science for innovation and creativity in today's culture.
 
 # Talks
 1997 - Future of Digital Britain organized by Tomorrows World.
