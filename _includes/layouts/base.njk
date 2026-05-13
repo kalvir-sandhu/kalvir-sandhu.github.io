@@ -13,8 +13,8 @@
     <div>
       <header>
         <a href="/">
-          <h1>
-            .
+          <h1 id="loading-text">
+            Loading
           </h1>
         </a>
       </header>
@@ -22,6 +22,19 @@
       <main{% if templateClass %} class="{{ templateClass }}"{% endif %}>
         {{ content | safe }}
       </main>
+
+      <script>
+        const element = document.getElementById('loading-text');
+        let dots = 0;
+
+        setInterval(() => {
+          // Reset to 0 after 3 dots, otherwise increment
+          dots = (dots + 1) % 4;
+
+          // Repeat the "." string based on the current count
+          element.textContent = "Loading" + ".".repeat(dots);
+        }, 500); // Updates every 500ms
+      </script>
 
       <footer>
       </footer>
