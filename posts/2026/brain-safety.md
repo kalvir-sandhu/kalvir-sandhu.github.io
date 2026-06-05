@@ -5,7 +5,7 @@ date: 2026-01-22
 layout: layouts/post.njk
 ---
 
-Update May 2026: Most of these projects are not public now as I'm working to keep them private until I can test them with real people.
+Update May 2026: Most of these projects are not public now as I'm working to keep them private until I can test them with real people. I use a flower of time clock privately.
 
 How does one protect their soul, their mind, their work in 2026. I have heard so many odd terms be used in the news of today. Vibe Coding, Aura farming and Rage Bait. All items that I feel I've been suffering from as I've been looking for my new position after a lot of trauma that has been sent my way for being innocent, good, caring and giving with all that I do. Not one job offer has ever materialized for the work I have done and experience that I have. As though people are laughing at me.
 
