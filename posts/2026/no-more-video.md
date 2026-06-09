@@ -5,9 +5,7 @@ date: 2026-06-09
 layout: layouts/post.njk
 ---
 
-![/img/posts/090626.avif](/img/posts/090626.avif)
-
-I recorded another private audio vlog on Apple Voice Memos and found it really a great way to own my own voice and mind using my new [sound of time clock](https://www.instagram.com/p/DZVZyjDM_SN/) whilst listening to a uniquely composed track of music using a custom piano sound sample and op-1 field cpu frequency that is unique to my bedroom.
+I recorded another private audio vlog on Apple Voice Memos and found it really a great way to own my own voice whilst listening to a uniquely composed track of music using a custom piano sound sample and op-1 field cpu frequency that is unique to my bedroom.
 
 As I did, I want to post my thoughts on the world today requiring less visuals. I feel we don't listen and observe what we see with our eyes as much in today's western society.
 
