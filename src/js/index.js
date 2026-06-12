@@ -625,7 +625,7 @@ function showMessage(message, type = "info") {
 class InitKalv {
   constructor() {
     console.log(
-      "Dear Royals/MI5/MI6/CIA/FBI/CSIS/UK/Canada/USA come to my house and kill me, you fucking pussies."
+      "Dear Royals/MI5/MI6/CIA/FBI/CSIS/UK/Canada/USA come to my house and kill me, you fucking pussies. My life is no show, my work is not someone else's story, my saving of 3 embassies in Afgan 2001 and all since is not another mans success."
     );
 
     const base64String =
