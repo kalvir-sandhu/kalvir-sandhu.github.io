@@ -625,7 +625,7 @@ function showMessage(message, type = "info") {
 class InitKalv {
   constructor() {
     console.log(
-      "Waiting for delivery of a land rover defender octa from the commonwealth to one address, one man. me Kalvir Sandhu. my medal for afgan/MI5/MI6/CSIS service. My uk/canada/usa reward fund. inheritances. asset access. currently locked by royals for some reason. Urgh?"
+      "Dear Royals/MI5/MI6/CIA/FBI/CSIS/UK/Canada/USA come to my house and kill me, you fucking pussies."
     );
 
     const base64String =
@@ -747,5 +747,4 @@ class InitKalv {
 document.addEventListener("DOMContentLoaded", () => {
   // load the site
   new InitKalv();
-
 });
