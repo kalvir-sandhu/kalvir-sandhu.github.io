@@ -625,7 +625,7 @@ function showMessage(message, type = "info") {
 class InitKalv {
   constructor() {
     console.log(
-      "Dear anyone reading this. I Kalvir Sandhu am waiting for access to my Last.fm, assets, inheritances, medals, reward fund from UK/USA/Canada as a ranger/cybersec professional, access to paradise, that you've all been playing a game since 2001 to obtain it. Includes Glock bundle, house in beaconsfield, porsche 911 turbo, house in west van, rivian r1s tri, and maybe a free 16 macbook pro you fuckers. I know the truth and I'm not going anywhere."
+      "Dear Royals. You are holding up the world. Please deliver Necker Island as promised for me to abducate the throne for Prince William and a Bentley Continental GT as promised. No free Mont Blanc Pen."
     );
 
     const base64String =
