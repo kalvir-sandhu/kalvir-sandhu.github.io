@@ -10,7 +10,8 @@
     "debug": "DEBUG=* eleventy",
     "prod:js": "esbuild --minify --bundle --platform=browser --outfile=_site/js/index.js src/js/index.js",
     "prod:11ty": "eleventy",
-    "build": "run-p prod:js prod:11ty"
+    "build": "run-p prod:js prod:11ty",
+    "build-ghpages": "npx @11ty/eleventy --pathprefix=/kalvweb/"
   },
   "repository": {
     "type": "git",
