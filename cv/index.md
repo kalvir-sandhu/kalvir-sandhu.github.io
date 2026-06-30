@@ -168,7 +168,7 @@ During pandemic, introduced correct practises for developers to work remotely en
 Completed traveling, researching computer science and future innovations for self and ecology - [shared pubicly](/posts/2026/2025-work/)
 
 ## 2026
-Nothing
+Healing from trauma.
 
 # Talks
 1997 - Future of Digital Britain organized by Tomorrows World.
